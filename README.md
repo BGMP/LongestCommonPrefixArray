@@ -3,7 +3,7 @@ LongesCommonPrefixArray
 A Java application that constructs a Suffix Array and generates the corresponding Longest Common Prefix (LCP) array for
 large text files.
 
-### Build
+## Build
 From the project's root directory, run the following commands:
 ```sh
 mvn clean package
