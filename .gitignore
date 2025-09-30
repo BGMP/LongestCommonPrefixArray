@@ -36,3 +36,4 @@ build/
 
 *.dat
 dblp.xml.100MB
+dependency-reduced-pom.xml
